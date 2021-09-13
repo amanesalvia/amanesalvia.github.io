@@ -3,13 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://amanesalvia.github.io/archives/</loc>
-    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+    <lastmod>2021-09-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://amanesalvia.github.io/page/</loc>
-    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
+    <lastmod>2021-09-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://amanesalvia.github.io/</loc>
-    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
+    <lastmod>2021-09-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://amanesalvia.github.io/%E9%97%9C%E6%96%BC%E6%9C%AC%E7%AB%99/</loc>
+    <lastmod>2021-09-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://amanesalvia.github.io/categories/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
@@ -41,11 +44,6 @@
     <loc>https://amanesalvia.github.io/categories/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://amanesalvia.github.io/about/</loc>
-    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://amanesalvia.github.io/search/</loc>
-  </url><url>
-    <loc>https://amanesalvia.github.io/categories/test/</loc>
   </url>
 </urlset>
